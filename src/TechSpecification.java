@@ -1,0 +1,3 @@
+interface TechSpecification {
+   String show();
+}
